@@ -2,11 +2,11 @@ lockfileVersion: 5.4
 
 specifiers:
   nuxt: 3.0.0
-  nuxt-remote-config: ^0.1.0
+  nuxt-remote-config: ^0.1.1
 
 devDependencies:
   nuxt: 3.0.0
-  nuxt-remote-config: 0.1.0
+  nuxt-remote-config: 0.1.1
 
 packages:
 
@@ -3057,8 +3057,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /nuxt-remote-config/0.1.0:
-    resolution: {integrity: sha512-jzJyKTf0Aj/q79qBi/l332o9JegwmfBvF/vHLNNemqEy8F6V1HiQmxktAoh+hWb9dU/61/9OSKrDwmRuVQFnqw==}
+  /nuxt-remote-config/0.1.1:
+    resolution: {integrity: sha512-IZQvpuw87AUXg3+s2ppFgwSQv4ylvg77RMmKgOvGgZ+rJMt2cpIkdJFfdg8OalhaihbFc8AFq7tHAeokg5NkgA==}
     dependencies:
       '@nuxt/kit': 3.0.0
     transitivePeerDependencies:

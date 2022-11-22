@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0",
-    "nuxt-remote-config": "^0.1.0"
+    "nuxt-remote-config": "^0.1.1"
   }
 }
